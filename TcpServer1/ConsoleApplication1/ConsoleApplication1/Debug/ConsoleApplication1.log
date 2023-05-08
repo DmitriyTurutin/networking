@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+C:\Users\dturu\Documents\Универ\OS\bmstu\TcpServer1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92,44): warning C4390: ';': empty controlled statement found; is this the intent?
+  ConsoleApplication1.vcxproj -> C:\Users\dturu\Documents\Универ\OS\bmstu\TcpServer1\ConsoleApplication1\Debug\ConsoleApplication1.exe

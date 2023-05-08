@@ -1,0 +1,16 @@
+﻿Сборка начата 07.04.2016 20:39:23.
+     1>Проект "c:\Users\Timur\documents\visual studio 2013\Projects\tcp2client\tcp2client\tcp2client.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt tcp2client.cpp
+         tcp2client.cpp
+     1>c:\users\timur\documents\visual studio 2013\projects\tcp2client\tcp2client\tcp2client.cpp(95): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): см. объявление "inet_addr"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\timur\documents\visual studio 2013\Projects\tcp2client\Debug\tcp2client.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\timur\documents\visual studio 2013\Projects\tcp2client\Debug\tcp2client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\timur\documents\visual studio 2013\Projects\tcp2client\Debug\tcp2client.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\tcp2client.obj
+         tcp2client.vcxproj -> c:\users\timur\documents\visual studio 2013\Projects\tcp2client\Debug\tcp2client.exe
+     1>Сборка проекта "c:\Users\Timur\documents\visual studio 2013\Projects\tcp2client\tcp2client\tcp2client.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.29
